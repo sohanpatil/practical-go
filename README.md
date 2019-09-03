@@ -1,2 +1,4 @@
 # practical-go
-following (https://pythonprogramming.net/go/introduction-go-language-programming-tutorial/) to start learning GoLang via practical applications
+Following [this](https://pythonprogramming.net/go/introduction-go-language-programming-tutorial/) tutorial to start learning Golang via practical application
+
+Will add details as I progress. Wish me luck!
