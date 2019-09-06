@@ -23,7 +23,7 @@ type NewsMap struct {
 	Keywords string
 }
 
-func main() {
+func main11() {
 
 	var newsData News
 	var sms Sitemapindex
